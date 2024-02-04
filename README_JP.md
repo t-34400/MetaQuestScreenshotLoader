@@ -2,6 +2,9 @@
 Meta Questから最新のスクリーンショット画像を取得するUnity Androidプラグイン．
 パススルーと組み合わせることでカメラ撮影することもできる．
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CodeFactor](https://www.codefactor.io/repository/github/t-34400/metaquestscreenshotloader/badge)](https://www.codefactor.io/repository/github/t-34400/metaquestscreenshotloader)
+
 ## 動作確認環境
 - Meta Quest Pro
 - Unity Editor 2022.3.1.f1

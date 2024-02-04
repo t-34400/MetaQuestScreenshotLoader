@@ -2,6 +2,9 @@
 Unity Android plugin for retrieving the latest screenshot images from Meta Quest.
 It can be combined with passthrough to capture camera images.
 
+[![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+[![CodeFactor](https://www.codefactor.io/repository/github/t-34400/metaquestscreenshotloader/badge)](https://www.codefactor.io/repository/github/t-34400/metaquestscreenshotloader)
+
 ## Environment
 - Meta Quest Pro
 - Unity Editor 2022.3.1.f1
