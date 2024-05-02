@@ -59,5 +59,8 @@ To capture camera images, there are two methods:
 1. Launch passthrough from the system, and capture camera images by simultaneously pressing the Oculus button and trigger button on the right controller.
 2. Introduce the Passthrough API, display passthrough within the app, and capture camera images by simultaneously pressing the Oculus button and trigger button on the right controller.
 
+## Sample Project
+Check out a sample project [here](https://github.com/t-34400/MetaQuestScreenShotLoaderSample)
+
 # License
 [MIT License](./LICENSE)
